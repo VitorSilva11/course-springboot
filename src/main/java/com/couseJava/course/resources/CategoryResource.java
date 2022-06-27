@@ -13,7 +13,7 @@ import com.couseJava.course.entities.Category;
 import com.couseJava.course.services.CategoryService;
 
 @RestController
-@RequestMapping("/categorys")
+@RequestMapping("/categories")
 public class CategoryResource {
 
 	@Autowired
